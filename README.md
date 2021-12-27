@@ -1,5 +1,7 @@
 # Projeto-PDI-filtro-cinza
-Projeto em C que realiza um Processamento Digital de Imagens (PDI), aplicando um filtro que transforma uma imagem colorida em tons de cinza. Usado em cameras de segurança. 
+Projeto da Universidade Positivo em C que realiza um Processamento Digital de Imagens (PDI), aplicando um filtro que transforma uma imagem colorida em tons de cinza. Usado em cameras de segurança. 
+
+Resultado do projeto: Avaliação máxima (5 de 5).
 
 ## Descrição e planejamento do projeto:
 Para realizar um Processamento Digital de Imagens (PDI) é necessário aplicar diversos filtros nas imagens. Um dos tipos de filtro mais conhecidos é o que transforma uma imagem colorida em tons de cinza. A análise de imagens em tons de cinza muitas vezes pode ser mais interessante para a extração de características que podem ser base para reconhecimento de padrões em imagens, como é feito em reconhecimento de doenças como câncer, identificação de faces humanas, movimentação de bandidos pelas ruas, placas de carros, digitais ou até mesmo para íris humana, por exemplo.
