@@ -3,6 +3,10 @@ Projeto da Universidade Positivo em C que realiza um Processamento Digital de Im
 
 <strong>Resultado do projeto: Avaliação máxima (5 de 5).</strong>
 
+## Como usar o projeto
+- Acesse o link: <https://replit.com/@muhhx/Projeto-C-PDI-Filter?v=1>
+- Clique em "Run", no campo superior direito
+
 ## Descrição e planejamento do projeto:
 Para realizar um Processamento Digital de Imagens (PDI) é necessário aplicar diversos filtros nas imagens. Um dos tipos de filtro mais conhecidos é o que transforma uma imagem colorida em tons de cinza. A análise de imagens em tons de cinza muitas vezes pode ser mais interessante para a extração de características que podem ser base para reconhecimento de padrões em imagens, como é feito em reconhecimento de doenças como câncer, identificação de faces humanas, movimentação de bandidos pelas ruas, placas de carros, digitais ou até mesmo para íris humana, por exemplo.
 
